@@ -1,1 +1,2 @@
-Projekt na Grafike Komputerową![Rybkawszechswiata](https://github.com/halskiszymon/star-fish-opengl/assets/98791343/b1443d2a-8b04-4768-b61b-fdc3aa9bf2a3)
+Projekt na Grafike Komputerową!
+![rybka](https://github.com/halskiszymon/star-fish-opengl/assets/98791343/418b473e-a2c4-4d84-a2bd-b0063ac75a5d)
